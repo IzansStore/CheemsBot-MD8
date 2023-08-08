@@ -10,7 +10,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -38,7 +38,7 @@ global.websitex = "-"
 global.wagc = "https://chat.whatsapp.com/EZz7IuEJnHX04TqqeRQm6V"
 global.themeemoji = '🪀'
 global.wm = "Hinata Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.botscript = 'Scrip?,buy bang harga murah kok,no enc' //script link
 global.packname = "Sticker By"
 global.author = "IzansXD\n\n+6282298627146"
 global.creator = "6282298627146@s.whatsapp.net"
